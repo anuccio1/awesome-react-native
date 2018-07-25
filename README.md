@@ -1,4 +1,6 @@
 # Awesome React Native
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fanuccio1%2Fawesome-react-native.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fanuccio1%2Fawesome-react-native?ref=badge_shield)
+
 
 <img src="https://travis-ci.org/jondot/awesome-react-native.svg?branch=master" alt="Build Status" />
 
@@ -934,3 +936,7 @@ Assortment of conference and training videos.
 - [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
 - [Stable: 0.34.0](https://github.com/facebook/react-native/releases/tag/v0.34.0)
 - [Next: latest](https://github.com/facebook/react-native/releases/latest)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fanuccio1%2Fawesome-react-native.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fanuccio1%2Fawesome-react-native?ref=badge_large)
